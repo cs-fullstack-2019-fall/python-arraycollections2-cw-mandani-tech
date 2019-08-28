@@ -1,5 +1,5 @@
 # Python review CW
-
+Great work! See cw_08_27.py for comments. 4/4 + bonus. Score : 5
 ### Problem 1:
 Create code and define the variable below outside of any function. After you create the list variable write a function called ```stupid_array_tricks``` that takes an array as a parameter, and performs the functions listed below in the instructions. 
 
